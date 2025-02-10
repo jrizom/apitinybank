@@ -33,6 +33,10 @@ GET /history
      -H "Content-Type: application/json" \
      -d '{"amount": 500}'
 
+    curl -b cookie.txt -X GET http://127.0.0.1:8000/balance 
+
+    curl -b cookie.txt -X GET http://127.0.0.1:8000/history
+
 
     - Via Javascript
 
