@@ -2,7 +2,7 @@
 Laravel TinyBank API
 
 #Instructions:
-git clone https://github.com/tuusuario/apitinybank.git
+git clone https://github.com/jrizom/apitinybank.git
 
 cd apitinybank
 
